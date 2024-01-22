@@ -16,5 +16,12 @@
       <guid>https://ericwyles.com/posts/markdown-cheat-sheet/</guid>
       <description>This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for basic syntax and extended syntax.</description>
     </item>
+    <item>
+      <title>Corn Beards and Happy Inconveniences</title>
+      <link>https://ericwyles.com/posts/corn-beards/</link>
+      <pubDate>Sun, 19 Aug 2018 14:22:05 -0600</pubDate>
+      <guid>https://ericwyles.com/posts/corn-beards/</guid>
+      <description>The modern food industry is an amazing creation. When I was a kid, we grew corn in our family garden, and I spent many summer evenings sitting outside shucking corn with my parents and grandma.</description>
+    </item>
   </channel>
 </rss>

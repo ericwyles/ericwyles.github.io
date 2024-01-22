@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Life on Eric Wyles</title>
+    <link>https://ericwyles.com/categories/life/</link>
+    <description>Recent content in Life on Eric Wyles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2023 - {year}</copyright>
+    <lastBuildDate>Sun, 19 Aug 2018 14:22:05 -0600</lastBuildDate>
+    <atom:link href="https://ericwyles.com/categories/life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Corn Beards and Happy Inconveniences</title>
+      <link>https://ericwyles.com/posts/corn-beards/</link>
+      <pubDate>Sun, 19 Aug 2018 14:22:05 -0600</pubDate>
+      <guid>https://ericwyles.com/posts/corn-beards/</guid>
+      <description>The modern food industry is an amazing creation. When I was a kid, we grew corn in our family garden, and I spent many summer evenings sitting outside shucking corn with my parents and grandma.</description>
+    </item>
+  </channel>
+</rss>
