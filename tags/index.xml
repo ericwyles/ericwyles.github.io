@@ -7,21 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2023 - {year}</copyright>
-    <lastBuildDate>Sat, 27 Aug 2022 09:16:45 +0000</lastBuildDate>
-    <atom:link href="https://ericwyles.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Aug 2022 09:16:45 +0000</lastBuildDate><atom:link href="https://ericwyles.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello</title>
       <link>https://ericwyles.com/tags/hello/</link>
       <pubDate>Sat, 27 Aug 2022 09:16:45 +0000</pubDate>
+      
       <guid>https://ericwyles.com/tags/hello/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>WhatsApp</title>
       <link>https://ericwyles.com/tags/whatsapp/</link>
       <pubDate>Sat, 27 Aug 2022 09:16:45 +0000</pubDate>
+      
       <guid>https://ericwyles.com/tags/whatsapp/</guid>
       <description></description>
     </item>
+    
   </channel>
 </rss>

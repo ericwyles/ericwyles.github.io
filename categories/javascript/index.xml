@@ -6,7 +6,6 @@
     <description>Recent content in JavaScript on Eric Wyles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>2023 - {year}</copyright>
-    <atom:link href="https://ericwyles.com/categories/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>2023 - {year}</copyright><atom:link href="https://ericwyles.com/categories/javascript/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
